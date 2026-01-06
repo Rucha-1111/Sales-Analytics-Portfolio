@@ -85,7 +85,7 @@ Designed for leadership and high-level reviews, this dashboard focuses on clarit
 - Low cognitive load
 
 **Screenshot**
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard](executive_dashboard.png)
 
 ---
 
@@ -104,7 +104,7 @@ Built for analysts and product managers to investigate performance drivers and i
 - Exploratory interaction using slicers and filters
 
 **Screenshot**
-![Analytics Dashboard](screenshots/analytics_dashboard.png)
+![Analytics Dashboard](analytics_dashboard.png)
 
 ---
 
